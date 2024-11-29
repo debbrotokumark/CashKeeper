@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cash Keeper</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="about">About</string>
+    <string name="current_balance">Current balance</string>
+    <string name="expense">Expense</string>
+    <string name="add_money">Add Money</string>
+    <string name="saveing">Saving</string>
+    <string name="history">History</string>
+    <string name="last_two_trensactions">Last two transactions</string>
+    <string name="ammount">Amount</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="enter_your_ammout_and_source_descriptions">Enter your amount and source/ descriptions</string>
+    <string name="current_saving">Current saving</string>
+    <string name="all_saving_history">All saving history</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="continue1">Continue</string>
+    <string name="tct">Track your expenses, achieve your goals!</string>
+    <string name="plese_input_all_filed">Plese input all filed</string>
+    <string name="_00">00</string>
+</resources>
